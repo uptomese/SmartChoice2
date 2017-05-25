@@ -1,0 +1,6 @@
+git init
+git remote add origin ≈‘ß§Ïgithub
+git pull origin master 
+git add .
+git commit -m"test"
+git push origin master
